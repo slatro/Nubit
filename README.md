@@ -8,7 +8,7 @@
 
 > Herhangi bir sunucuya bu komutu giriyoruz: `curl -sL1 https://nubit.sh | bash`
 
-> Loglarrımız arasındaki keyleri kaydediyoruz.
+> Loglarrımız arasındaki keyleri kaydediyoruz...
 
 ![image](https://github.com/ruesandora/Nubit/assets/101149671/2ef4e7cd-7d50-42e7-9864-23f20399bb17)
 
